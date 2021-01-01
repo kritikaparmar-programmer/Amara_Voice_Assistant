@@ -25,7 +25,7 @@ pip install requirements.txt
 python3 voice.py
 ```
 
-### How to contribute tp this project
+### How to contribute to this project
 After doing the changes that you want the next step will be:
 ```
 git add .
