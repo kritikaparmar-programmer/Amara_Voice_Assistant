@@ -250,7 +250,7 @@ if __name__ == '__main__':
         elif "weather" in query:
             # Google Open weather website
             # to get API of Open weather 
-            api_key = "cb4170b7aacd19121008ba48cc4ebc39"
+            api_key = "your-api-key"
             base_url = "http://api.openweathermap.org/data/2.5/weather?"
             speak(" City name ")
             print("City name : ")
